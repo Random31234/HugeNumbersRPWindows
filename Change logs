@@ -13,3 +13,4 @@ Changes to the import and export system to now include all mathematics in one ex
 indeed created multiple maths yet for a single sheet, this may not remain the case for long, and it may turn necessary to build a system that can quickly adjust mathematics 
 accordingly.
 Smaller bug pathces may be pushed out sooner instead if theres many of note. 
+Proper tutorial sheet is pending very soon, to make something that allows the user to get any questions asked or be able to adjust accordingly.
