@@ -1,0 +1,15 @@
+These are the following change logs that shall be noted for those who have gotten the new version of the program, the changes are as follows:
+Revamp of the UI, the UI was cluttered and filled with so many buttons, it overwhelms the user, so to simplify the program, the three main functions were split off
+into their own tabs, UI changes may be pending, especially with any new features.
+Fix of bugs, the save system had it's own bugs, but it should be resolved such as preventing the save sheet options from defaulting back to the begginning, also the same
+is done with the maths system.
+
+
+Pending changes:
+A logic system for maths system, this allows even more flexibility, and may cause a few changes, however I am hoping to prevent any sort breaking of the save system with this. 
+Naturally it may be cluttered or bugged, also pending on adding more functions to the maths system to enable recursive functions. 
+More UI clean up or rearrangement, buttons may be recolored, reorganized or otherwise patched to fix the various errors that exist.
+Changes to the import and export system to now include all mathematics in one export of the save sheets, granted that although this system hasn't taken off yet that few have
+indeed created multiple maths yet for a single sheet, this may not remain the case for long, and it may turn necessary to build a system that can quickly adjust mathematics 
+accordingly.
+Smaller bug pathces may be pushed out sooner instead if theres many of note. 
